@@ -36,7 +36,7 @@ Alura is an online, practical and intensive training. At alura, students delve d
 
 ## :abacus: Frontend 
 
-<img alt="Logo ignitte" src="./alura-html-css.png"/>
+<img alt="Logo ignitte" src="./alura-html-e-css.png"/>
 
 <br>
 
