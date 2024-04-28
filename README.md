@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Logo ignitte" src="./img/Logo.png" width="350px" />
+    <img alt="Logo ignitte" src="./img/Logo.png"/>
 </h1>
 
 <p align="center">
