@@ -36,6 +36,8 @@ Um site para divulgação da Alura Plus, uma plataforma de streaming com os cont
 
 ## :tv: Prévia
 
+Acesse o [link](https://ruthmaria.github.io/alura-plus/).
+
 ![video](./video/video.gif)
 
 <a id="license"></a><br>
