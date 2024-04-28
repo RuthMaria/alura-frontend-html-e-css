@@ -17,7 +17,7 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=04d361&labelColor=000000">
 </p>
 
-<p align="center"> <img src="https://imgur.com/BASzVop.png" alt="HTML e CSS: praticando HTML e CSS"> </p>
+<p align="center"> <img src="https://imgur.com/BASzVop.png" alt="HTML e CSS: praticando HTML e CSS"> </p><br/>
 
 <a id="about"></a>
 
@@ -44,7 +44,8 @@ Um site para divulgação da Alura Plus, uma plataforma de streaming com os cont
 
 Este projeto está sob licença do MIT. Consulte o arquivo [LICENSE](LICENSE.md) para obter mais detalhes.
 
-<br>
+---
+
 <h4 align="center">
     Desenvolvido com ❤️ por <a href="https://www.linkedin.com/in/ruth-maria-9b256071/" target="_blank">Ruth Maria</a>
 </h4>
