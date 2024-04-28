@@ -36,7 +36,8 @@ Um site para divulgação da Alura Plus, uma plataforma de streaming com os cont
 
 ## :tv: Prévia
 
-Acesse o [link](https://ruthmaria.github.io/alura-plus/).
+Deploy [Github Pages](https://ruthmaria.github.io/alura-plus/)<br>
+Deploy [Vercel](https://alura-plus-iota-three.vercel.app/)
 
 ![video](./video/video.gif)
 
