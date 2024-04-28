@@ -1,7 +1,6 @@
 <h1 align="center">
-    <img alt="Logo ignitte" src="./logo-alura.png" width="350px" />
+    <img alt="Logo ignitte" src="./img/logo-alura.png" width="350px" />
 </h1>
-
 
 <p align="center">
   <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
@@ -11,13 +10,12 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=04d361&labelColor=000000" alt="PRs welcome!" /> 
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=04d361&labelColor=000000" alt="PRs welcome!" />
 
   <img alt="License" src="https://img.shields.io/badge/Made%20by-Ruth%20Maria-%2304D361">
 
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=04d361&labelColor=000000">
 </p>
-
 
 <a id="about"></a><br>
 
@@ -29,14 +27,14 @@ Alura is an online, practical and intensive training. At alura, students delve d
 
 ## ⚒️ Technologies Used
 
- * CSS3
- * HTML5
+- CSS3
+- HTML5
 
 <a id="training"></a><br>
 
-## :abacus: Frontend 
+## :abacus: Frontend
 
-<img alt="Logo ignitte" src="./alura-html-e-css.png"/>
+<img alt="Logo ignitte" src="./img/alura-html-e-css.png"/>
 
 <br>
 
@@ -49,7 +47,7 @@ Alura is an online, practical and intensive training. At alura, students delve d
 
 ## :memo: License
 
-This project is under the MIT license. See the  file [LICENSE](LICENSE.md) for more details.
+This project is under the MIT license. See the file [LICENSE](LICENSE.md) for more details.
 
 ---
 
