@@ -1,12 +1,12 @@
 <h1 align="center">
-    <img alt="Logo ignitte" src="./img/logo-alura.png" width="350px" />
+    <img alt="Logo ignitte" src="./img/Logo.png" width="350px" />
 </h1>
 
 <p align="center">
-  <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#technologies">Technologies Used</a>&nbsp;&nbsp;&nbsp;|&nbsp;
-  <a href="#training">Training</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#license">License</a>
+  <a href="#about">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#technologies">Tecnologias usadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;
+  <a href="#preview">Prévia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license">Licença</a>
 </p>
 
 <p align="center">
@@ -17,40 +17,34 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=04d361&labelColor=000000">
 </p>
 
-<a id="about"></a><br>
+<p align="center"> <img src="https://imgur.com/BASzVop.png" alt="HTML e CSS: praticando HTML e CSS"> </p>
 
-## :books: About
+<a id="about"></a>
 
-Alura is an online, practical and intensive training. At alura, students delve deeper into various training courses: programming, frontend, backend, data science, artificial intelligence, devOps, UI & design, mobile and innovation & management. So that the student can be ready for real-world challenges and stand out in the job market.
+## :books: Sobre
+
+Um site para divulgação da Alura Plus, uma plataforma de streaming com os conteúdos educacionais da Alura.
 
 <a id="technologies"></a><br>
 
-## ⚒️ Technologies Used
+## ⚒️ Tecnologias usadas
 
-- CSS3
-- HTML5
+- HTML
+- CSS
 
-<a id="training"></a><br>
+<a id="preview"></a><br>
 
-## :abacus: Frontend
+## :tv: Prévia
 
-<img alt="Logo ignitte" src="./img/alura-html-e-css.png"/>
-
-<br>
-
-- [HTML e CSS: praticando HTML/CSS]()
-- []()
-
-<br>
+![video](./video/video.gif)
 
 <a id="license"></a><br>
 
-## :memo: License
+## :memo: Licença
 
-This project is under the MIT license. See the file [LICENSE](LICENSE.md) for more details.
+Este projeto está sob licença do MIT. Consulte o arquivo [LICENSE](LICENSE.md) para obter mais detalhes.
 
----
-
+<br>
 <h4 align="center">
-    Developed with ❤️ by <a href="https://www.linkedin.com/in/ruth-maria-9b256071/" target="_blank">Ruth Maria</a>
+    Desenvolvido com ❤️ por <a href="https://www.linkedin.com/in/ruth-maria-9b256071/" target="_blank">Ruth Maria</a>
 </h4>
