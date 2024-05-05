@@ -34,6 +34,19 @@ body {
   grid-template-columns: 50% 50%;
 }
 
+.container__caixa {
+  margin: 0 6em;
+}
+
+.container__titulo {
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.container__imagem {
+  margin: 1em 0 2em 0;
+}
+
 .container__botao {
   background-color: var(--botao-azul);
   border-radius: 5px;
@@ -54,26 +67,17 @@ body {
   color: var(--cinza-secundario);
 }
 
-.container__titulo {
-  font-size: 28px;
-  font-weight: 700;
-}
-
-.container__imagem {
-  margin: 1em 0 2em 0;
-}
-
-.container__caixa {
-  margin: 0 6em;
+.secundario {
+  align-items: center;
+  margin: 0 10em;
 }
 
 .secundario__imagem {
   width: 80%;
 }
 
-.secundario {
-  align-items: center;
-  margin: 0 10em;
+.container__descricao {
+  padding: 2em;
 }
 
 .descricao__titulo {
@@ -90,10 +94,6 @@ body {
 .secundario__botao {
   display: inline-block;
   margin-top: 1em;
-}
-
-.container__descricao {
-  padding: 2em;
 }
 
 .dispositivos__lista {
@@ -154,6 +154,37 @@ body {
   color: var(--cor-de-fundo);
 }
 
+@media (max-width: 768px) {
+  .container {
+    display: block;
+    background-image: none;
+  }
+
+  .container__imagem {
+    width: 50vw;
+  }
+
+  .container__caixa {
+    margin: 2em 2em;
+  }
+
+  .secundario {
+    margin: 0;
+    text-align: center;
+  }
+
+  .secundario__imagem {
+    width: 50vw;
+  }
+
+  .dispositivos__lista {
+    display: block;
+  }
+
+  .rodape__lista {
+    display: block;
+  }
+}
 /*
 
 Um truque para que o tamanho das unidades 'rem' seja equivalente ao de 'px' é definir

@@ -41,6 +41,19 @@ Deploy [Vercel](https://alura-plus-iota-three.vercel.app/)
 
 ![video](./video/video.gif)
 
+<a id="rodar"></a><br>
+
+## 🚀 Como rodar o projeto
+
+- Clone este repositório
+
+```
+git clone https://github.com/RuthMaria/alura-plus.git
+```
+
+- Instale a extensão Live Server
+- Clique em Go Live do Vscode
+
 <a id="license"></a><br>
 
 ## :memo: Licença
